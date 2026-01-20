@@ -277,14 +277,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. See [CONTR
 
 For questions and suggestions, please create an issue in the [repository](https://github.com/sh1dan/infoseek/issues).
 
-## 🔧 Git Setup
-
-To push this project to GitHub, you'll need Git installed. See [GIT_SETUP.md](GIT_SETUP.md) for detailed instructions.
-
-**Quick Git Installation (Windows):**
-- Download from: https://git-scm.com/download/win
-- Or use: `winget install --id Git.Git -e --source winget`
-
 ---
 
 **Made with ❤️ for efficient news searching**
