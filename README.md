@@ -22,6 +22,10 @@
 - 📊 **Search History** — Save all search queries with results
 - 🐳 **Docker Ready** — Full containerization for easy deployment
 
+## 📸 Screenshot
+
+![InfoSeek Main Page](https://files.catbox.moe/gfka75.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
