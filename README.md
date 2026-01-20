@@ -24,7 +24,9 @@
 
 ## 📸 Screenshot
 
-![InfoSeek Main Page](https://files.catbox.moe/gfka75.png)
+<div align="center">
+  <img src="https://files.catbox.moe/gfka75.png" alt="InfoSeek Main Page" width="800"/>
+</div>
 
 ## 🚀 Quick Start
 
