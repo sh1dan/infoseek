@@ -25,7 +25,7 @@
 ## 📸 Screenshot
 
 <div align="center">
-  <img src="https://files.catbox.moe/gfka75.png" alt="InfoSeek Main Page" width="800"/>
+  <img src="https://tikolu.net/i/nopus" alt="InfoSeek Main Page" width="800"/>
 </div>
 
 ## 🚀 Quick Start
