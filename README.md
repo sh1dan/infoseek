@@ -239,12 +239,9 @@ You may also need to update article search selectors depending on the new site's
 ### Docker Image Download Error (502 Bad Gateway)
 
 ```bash
-# Option 1: Retry manually
+# Retry manually
 docker pull selenium/standalone-chrome:latest
 docker-compose up --build
-
-# Option 2: Run without Selenium (for testing)
-docker-compose -f docker-compose.no-selenium.yml up --build
 ```
 
 ### Port Already in Use
