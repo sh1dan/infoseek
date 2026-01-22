@@ -22,10 +22,20 @@
 - 📊 **Search History** — Save all search queries with results
 - 🐳 **Docker Ready** — Full containerization for easy deployment
 
-## 📸 Screenshot
+## 📸 Screenshots
+
+### Main Page
 
 <div align="center">
   <img src="https://tikolu.net/i/nopus" alt="InfoSeek Main Page" width="800"/>
+</div>
+
+### PDF Example
+
+<div align="center">
+  <img src="https://tikolu.net/i/lmesy" alt="PDF Example - Page 1" width="600"/>
+  <br/><br/>
+  <img src="https://tikolu.net/i/vfgco" alt="PDF Example - Page 2" width="600"/>
 </div>
 
 ## 🚀 Quick Start
